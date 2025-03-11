@@ -1,0 +1,16 @@
+{
+  "name": "737-2.1-cloud",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000i\u0000t\u00007\u00003\u00007\u0000-\u00002\u00000\u00002\u00005\u0000-\u0000p\u0000r\u0000a\u0000c\u00002\u0000p\u0000\r\u0000 \u0000",
+  "main": "week03calmicroservice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "winston": "^3.17.0"
+  }
+}
