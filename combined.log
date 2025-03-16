@@ -1,0 +1,26 @@
+{"level":"info","message":"Server started on port 3050"}
+{"level":"info","message":"Operation: add, n1: 10, n2: 5, result: 15"}
+{"level":"error","message":"Invalid number input"}
+{"level":"error","message":"Invalid number input"}
+{"level":"info","message":"Operation: subtract, n1: 10, n2: 5, result: 5"}
+{"level":"error","message":"Invalid number input"}
+{"level":"error","message":"Invalid number input"}
+{"level":"info","message":"Operation: multiply, n1: 10, n2: 5, result: 50"}
+{"level":"error","message":"Invalid number input"}
+{"level":"error","message":"Invalid number input"}
+{"level":"info","message":"Operation: divide, n1: 10, n2: 5, result: 2"}
+{"level":"error","message":"Invalid number input"}
+{"level":"error","message":"Invalid number input"}
+{"level":"info","message":"Server started on port 3050"}
+{"level":"info","message":"Operation: add, n1: 10, n2: 5, result: 15"}
+{"level":"error","message":"Invalid number input"}
+{"level":"error","message":"Invalid number input"}
+{"level":"info","message":"Operation: subtract, n1: 10, n2: 5, result: 5"}
+{"level":"error","message":"Invalid number input"}
+{"level":"error","message":"Invalid number input"}
+{"level":"info","message":"Operation: multiply, n1: 10, n2: 5, result: 50"}
+{"level":"error","message":"Invalid number input"}
+{"level":"error","message":"Invalid number input"}
+{"level":"info","message":"Operation: divide, n1: 10, n2: 5, result: 2"}
+{"level":"error","message":"Invalid number input"}
+{"level":"error","message":"Invalid number input"}
